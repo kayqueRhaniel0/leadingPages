@@ -1,0 +1,16 @@
+body{
+	background: -webkit-gradient(linear, left top, left bottom, from(rgba(107,30,2,0.2)), to(rgba(70,101,150,1))) fixed;
+}
+.quemSomos{
+	position: relative;
+	top: 20px;
+	border-radius: 20px;
+	background: #bd94ef;
+	width: 400px;
+	height: 80px;
+	padding: 8px;
+	margin: auto;
+	text-align: center;
+	font-style: italic;
+	font-size: 22px;
+}

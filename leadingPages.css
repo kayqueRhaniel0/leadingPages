@@ -1,0 +1,56 @@
+.links{
+	text-decoration: none;
+	color: #7b3fa8 ;
+}
+.d{
+	margin-left: 22px;
+	font-size: 24px;
+	transition: all 2s ease-out;
+	color: black;
+}
+.d:hover{
+	position: relative;
+	top: 8px;
+	
+}
+body{
+	background: -webkit-gradient(linear, left top, left bottom, from(rgba(107,30,2,0.2)), to(rgba(70,101,150,1))) fixed;
+
+}
+.im{
+	background: white;
+	width: 1000px;
+	height: 400px;
+	position: relative;
+	top: 140px;
+	left: 140px;
+	border-radius: 18px;
+	padding: 12px;
+}
+.content{
+	position: relative;
+	top: 20px;
+	font-style: italic;
+	font-size: 22px;
+}
+.frase{
+	position: relative;
+	top: 120px;
+	left: 10px;
+	font-weight: bold;
+	font-size: 22px;
+}
+.autor{
+	font-style: italic;
+	position: relative;
+	top: 140px;
+	left: 200px;
+}
+.impacto{
+	position: relative;
+	top: 60px;
+	text-align: center;
+	right: 20px;
+	font-style: italic;
+	font-size: 26px;
+}
